@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.17,False,Medium reporting,,ng-hide,Platform: digital,The American Prospect,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~1500,2015
+,Contract: ,$0.25,False,,,ng-hide,Platform: digital,The American Prospect,,Rights: ,news story,1000,2013
+"""a few years ago""",Contract: ,,,,,ng-hide,,The American Prospect,,Rights: ,,,2013

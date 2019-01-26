@@ -1,0 +1,11 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.25,False,,Paid in 1 month ,svg-2,Platform: digital,Quartz,,Rights: Other / I don't know,,1000-word,2018
+,Contract: ,$0.25,False,,Paid in 1 month ,svg-2,Platform: digital,Quartz,,Rights: Other / I don't know,,1400-word,2018
+,Contract: No,$0.17,False,Little to no reporting,Paid in 1 month ,svg-2,Platform: digital,Quartz,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1500,2017
+,Contract: ,$0.39,False,,Paid in 1 month ,svg-2,Platform: digital,Quartz,,Rights: First Serial Rights,,760-word,2017
+,Contract: Yes,$0.29,False,Heavy/Investigative reporting,Paid in 6 weeks ,svg-2,Platform: digital,Quartz,Referral (you had a connection who connected you to the editor),Rights: All rights,news story,1200,2017
+,Contract: Yes,$0.33,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,Quartz,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,750,2016
+"""Quartz pays $250 per piece, but they're great to work with. They pay on time.""",Contract: Yes,$0.15,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,Quartz,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,feature,1700,2016
+,Contract: No,$0.23,False,Medium reporting,Paid in 6 weeks ,svg-3,Platform: digital,Quartz,Referral (you had a connection who connected you to the editor),Rights: Other / I don't know,feature,2200,2016
+,Contract: Yes,$0.07,False,Medium reporting,,ng-hide,Platform: digital,Quartz,Assignment (editor came to you),Rights: First Serial Rights,profile or interview,~3000,2016
+,Contract: ,$0.05,False,,,ng-hide,Platform: digital,Quartz,,Rights: ,"opinion, editorial, column or essay",1100,2013

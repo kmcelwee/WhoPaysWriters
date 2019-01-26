@@ -1,0 +1,12 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.00,False,,,svg-false,Platform: digital,Bust,,Rights: Other / I don't know,,850-word,2018
+,Contract: Yes,$0.07,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Bust,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",2000,2017
+,Contract: No,$0.00,False,Little to no reporting,,svg-false,Platform: digital,Bust,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",-700,2017
+,Contract: Yes,$0.05,False,Medium reporting,Paid in 3 months ,svg-2,Platform: print,Bust,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,"opinion, editorial, column or essay",1000,2017
+"""Editor was very friendly and the suggestions for altering the piece were helpful.""",Contract: Yes,$0.06,False,Little to no reporting,Paid in 15 days ,svg-1,Platform: print,Bust,Submission/spec (piece was written prior and then submitted for publication),Rights: Other / I don't know,fiction,900,2017
+,Contract: Yes,$0.13,False,Medium reporting,,ng-hide,Platform: print,Bust,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,fob,~750,2015
+"""No pay for blog posts. """,Contract: No,$0.00,False,Medium reporting,,ng-hide,Platform: digital,Bust,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,news story,~375,2014
+,Contract: ,$50,True,,,ng-hide,Platform: print,Bust,,Rights: ,,,2013
+,Contract: ,$100,True,,,ng-hide,Platform: print,Bust,,Rights: ,,,2013
+,Contract: ,$0.10,False,,,ng-hide,,Bust,,Rights: ,,350-word,2013
+,Contract: ,$50,True,,,ng-hide,,Bust,,Rights: ,, fob,2013

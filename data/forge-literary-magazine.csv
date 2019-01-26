@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.05,False,Submission/spec (piece was written prior and then submitted for publication),Paid in 15 days ,svg-1,Platform: digital,Forge Literary Magazine,,Rights: First Serial Rights,other,1814,2017
+"""Working with the Forge was one of the most gratifying experiences of my writing career.""",Contract: Yes,$0.02,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Forge Literary Magazine,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,feature,3000,2017
+,Contract: ,$0.02,False,,Paid in 15 days ,svg-1,Platform: digital,Forge Literary Magazine,,Rights: First Serial Rights,,3000-word,2017
+,Contract: ,$0.04,False,,Paid in 2 months ,svg-1,Platform: digital,Forge Literary Magazine,,Rights: First Serial Rights,,1300-word,2017

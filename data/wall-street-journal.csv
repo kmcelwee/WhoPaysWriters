@@ -1,0 +1,7 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,"Contract: Verbal or ""handshake"" agreement",$0.50,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,Wall Street Journal,Referral (you had a connection who connected you to the editor),Rights: All rights,profile or interview,1000,2017
+,Contract: Yes,$0.50,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: print,Wall Street Journal,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,"opinion, editorial, column or essay",800,2016
+,Contract: Yes,$1.07,False,Medium reporting,,ng-hide,Platform: digital,Wall Street Journal,Ongoing/pre-existing relationship with editor or publication,Rights: ,news story,~750,2014
+,Contract: ,,,,,ng-hide,Platform: print,Wall Street Journal,,Rights: ,,,2013
+"""""quick payment""""",Contract: ,$0.50,False,,,ng-hide,Platform: digital,Wall Street Journal,,Rights: ,"opinion, editorial, column or essay",800,2013
+"""Sometimes more for features""",Contract: ,$0.55,False,,,ng-hide,,Wall Street Journal,,Rights: ,"criticism, review, or arts/entertainment converage",~1100,2013

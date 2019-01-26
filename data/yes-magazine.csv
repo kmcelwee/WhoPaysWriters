@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.38,False,Heavy/Investigative reporting,Paid in 15 days ,svg-1,Platform: print,Yes! Magazine,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,1600,2018
+,Contract: Yes,$0.28,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Yes! Magazine,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,1800,2017
+,Contract: ,$0.25,False,,Paid in 15 days ,svg-1,Platform: digital,Yes! Magazine,,Rights: First Serial Rights,,1600-word,2016
+"""Wasn't sure what to select under rights; the contract says they generally say yes to requests to reprint, but tell the reprinter to send all revenues to the author.""",Contract: Yes,$0.42,False,Heavy/Investigative reporting,Paid in 15 days ,svg-1,Platform: print,Yes! Magazine,Solicited pitch (editor asked you to pitch),Rights: Other / I don't know,feature,2600,2016

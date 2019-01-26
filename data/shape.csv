@@ -1,0 +1,6 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""It wasn't a horrible experience - just very long. Even after submitting, editor was unresponsive and took months to even acknowledge receiving work.""",Contract: Yes,$0.21,False,Little to no reporting,N/A ,svg-3,Platform: digital,Shape,Cold pitch (no pre-existing relationship),Rights: All rights,blog post,700,2018
+,Contract: No,$0.20,False,Medium reporting,,ng-hide,Platform: digital,Shape,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~750,2016
+,Contract: No,$0.27,False,Little to no reporting,,ng-hide,Platform: digital,Shape,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~375,2016
+,Contract: Yes,$1.50,False,Medium reporting,,ng-hide,Platform: print,Shape,Assignment (editor came to you),Rights: First Serial Rights,feature,~1500,2015
+"""$200 per blog post, straightforward""",Contract: Yes,$1.60,False,Medium reporting,,ng-hide,Platform: digital,Shape,Ongoing/pre-existing relationship with editor or publication,Rights: ,news story,~125,2014

@@ -1,0 +1,23 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.38,False,Medium reporting,Paid in 1 month ,svg-1,Platform: print,The Daily Beast,Cold pitch (no pre-existing relationship),Rights: All rights,news story,1200,2018
+,Contract: Yes,$0.44,False,Medium reporting,Paid in 2 months ,svg-3,Platform: digital,The Daily Beast,Solicited pitch (editor asked you to pitch),Rights: All rights,news story,800,2018
+,Contract: Yes,$0.18,False,Medium reporting,Paid in 2 months ,svg-1,Platform: digital,The Daily Beast,Referral (you had a connection who connected you to the editor),Rights: All rights,"opinion, editorial, column or essay",2200,2018
+,Contract: Yes,$0.35,False,Medium reporting,Paid in 6 weeks ,svg-1,Platform: digital,The Daily Beast,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1000,2018
+,Contract: Yes,$0.50,False,Little to no reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,blog post,400,2018
+,Contract: Yes,$0.33,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,The Daily Beast,Referral (you had a connection who connected you to the editor),Rights: First Serial Rights,,1500-word,2018
+,Contract: No,$0.32,False,Medium reporting,Paid in 15 days ,svg-2,Platform: digital,The Daily Beast,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,feature,1100,2017
+,Contract: Yes,$0.41,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,985,2017
+,Contract: Yes,$0.22,False,Heavy/Investigative reporting,Haven't gotten it yet (as of this reporting) ,svg-1,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,news story,1144,2017
+,Contract: Yes,$0.57,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-3,Platform: digital,The Daily Beast,Assignment (editor came to you),Rights: Other / I don't know,blog post,700,2017
+,Contract: No,$0.00,False,Heavy/Investigative reporting,Haven't gotten it yet (as of this reporting) ,svg-false,Platform: digital,The Daily Beast,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,feature,900,2017
+,Contract: Yes,$0.17,False,Heavy/Investigative reporting,Paid in 1 month ,svg-1,Platform: digital,The Daily Beast,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,news story,1156,2017
+,Contract: ,$0.20,False,,Paid in 1 month ,svg-1,Platform: digital,The Daily Beast,,Rights: All rights,,1500-word,2016
+,Contract: No,$0.25,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,"opinion, editorial, column or essay",1200,2016
+"""Pays after 45 days of publication, direct deposit. Arrived after 55 days. Was offered $500 for first piece and then signed contract stating that ongoing rate, which has also applied to articles written since.
+Very respectful editors and staff that treat writers well.""",Contract: Yes,$0.67,False,Medium reporting,,ng-hide,Platform: digital,The Daily Beast,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,news story,~750,2014
+,Contract: Yes,$0.30,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~1500,2014
+,Contract: Yes,$0.47,False,Medium reporting,,ng-hide,Platform: digital,The Daily Beast,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,"criticism, review, or arts/entertainment converage",~750,2013
+"""but if you are one of their top people, they pay $500 per piece. How much time it takes/how intensive it is, varies.""",Contract: ,$0.23,False,,,ng-hide,,The Daily Beast,,Rights: ,feature,1500,2013
+,Contract: ,$275,True,,,ng-hide,,The Daily Beast,,Rights: ,, feature,2013
+,Contract: ,$50,True,,,ng-hide,,The Daily Beast,,Rights: ,,,2013
+,Contract: ,$300,True,,,ng-hide,,The Daily Beast,,Rights: ,, feature,2013

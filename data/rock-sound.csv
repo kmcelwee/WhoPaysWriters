@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""This is a British music magazine. They pay £0.10 per word equally for features, reviews and Q&A interview pieces.
+
+I write for them regularly and they always pay promptly.""",Contract: No,$0.26,False,Little to no reporting,,ng-hide,Platform: print,Rock Sound,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,"criticism, review, or arts/entertainment converage",~125,2014

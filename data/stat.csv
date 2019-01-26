@@ -1,0 +1,9 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""They've recently changed their rates: 
+* stories of 600 to 800 words -- $600
+* stories of 800 to 1,000 words -- $700
+* stories of 1,000 to 1,200 words -- $850
+* stories of 1,200 to 1,500 words -- $1,000
+* stories of 1,500 to 2,000 words -- $1,400""",Contract: Yes,$1.00,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Stat,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,news story,600,2016
+"""Awesome experience.""",Contract: Yes,$0.83,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Stat,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,news story,600,2016
+"""I was paid $1 a word. Story came out slightly less than assigned length. Great experience.""",Contract: Yes,$1.00,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Stat,Referral (you had a connection who connected you to the editor),Rights: Other / I don't know,news story,900,2016

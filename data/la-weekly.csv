@@ -1,0 +1,8 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Flat rate for theater reviews""",Contract: Yes,$0.21,False,Ongoing/pre-existing relationship with editor or publication,Paid in 15 days ,svg-1,Platform: print,L.a. Weekly,,Rights: Other / I don't know,"criticism, review, or arts/entertainment coverage",250,2017
+"""This was for West Coast Sound, L.A. Weekly's online music blog.""",Contract: Yes,$0.10,False,Medium reporting,,ng-hide,Platform: digital,L.a. Weekly,Cold pitch (no pre-existing relationship),Rights: ,profile or interview,~750,2013
+,Contract: ,$0.10,False,Medium reporting,,ng-hide,Platform: digital,L.a. Weekly,Cold pitch (no pre-existing relationship),Rights: ,profile or interview,~750,2013
+,Contract: ,$0.10,False,,,ng-hide,,L.a. Weekly,,Rights: ,"criticism, review, or arts/entertainment converage",500,2013
+"""I've been paid $250 extra for features that included video.""",Contract: ,$0.17,False,,,ng-hide,Platform: print,L.a. Weekly,,Rights: ,"criticism, review, or arts/entertainment converage",600,2013
+,Contract: ,$40,True,,,ng-hide,Platform: digital,L.a. Weekly,,Rights: ,," criticism, review, or arts/entertainment converage",2013
+,Contract: ,$30,True,,,ng-hide,,L.a. Weekly,,Rights: ,," criticism, review, or arts/entertainment converage",2013

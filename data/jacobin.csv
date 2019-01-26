@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""$75 flat rate via Paypal, very fast. Easy to work with""",Contract: No,$0.04,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Jacobin,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,news story,1750,2018
+,Contract: No,$0.02,False,Little to no reporting,Paid in 15 days ,svg-2,Platform: digital,Jacobin,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",3200,2016
+,Contract: No,$0.03,False,Little to no reporting,Paid in 1 month ,svg-2,Platform: digital,Jacobin,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1600,2016
+,Contract: No,$0.03,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Jacobin,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1500,2016

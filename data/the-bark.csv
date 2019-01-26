@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.07,False,Little to no reporting,Paid in 15 days ,svg-1,Platform: digital,The Bark,Cold pitch (no pre-existing relationship),Rights: All rights,news story,450,2018
+,Contract: No,$0.06,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,The Bark,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,news story,500,2018
+"""Basic rate of .30/word; more when rush.
+Fast communication and with editor and copyeditor""",Contract: Yes,$0.67,False,Little to no reporting,,ng-hide,Platform: print,The Bark,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,fob,~375,2014

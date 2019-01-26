@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.25,False,Ongoing/pre-existing relationship with editor or publication,Paid in 15 days ,svg-1,Platform: print,The Sun,,Rights: First Serial Rights,fiction,2000,2016
+"""They edit every piece pretty heavily, but they are willing to negotiate the changes with you.""",Contract: Yes,$0.20,False,Little to no reporting,,ng-hide,Platform: digital,The Sun,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",~3000,2014
+"""This was my second piece with The Sun. Same rate (1k). VERY professional. Extensive editing, but can be flexible on some things. I love working with them. """,Contract: Yes,$0.20,False,Little to no reporting,,ng-hide,Platform: print,The Sun,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",~5000,2014
+,Contract: ,$600,True,,,ng-hide,Platform: print,The Sun,,Rights: ,, fiction,2013

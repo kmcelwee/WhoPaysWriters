@@ -1,0 +1,3 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.15,False,,Paid in 1 month ,svg-1,Platform: digital,Impose,,Rights: Other / I don't know,,400-word,2016
+"""This online website pays for long-form features (profiles and Q&As) but also expects writers to pen reviews and news stories for free. Also, they apparently only pay for *some* features depending on how the site did that month. Be cautious.""",Contract: No,$0.01,False,Medium reporting,,ng-hide,Platform: digital,Impose,See below,Rights: Other / I don't know,profile or interview,~3000,2014

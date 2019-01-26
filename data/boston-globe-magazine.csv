@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.71,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Boston Globe Magazine,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",700,2017
+"""... editor was fabulous -- really wonderful to work with""",Contract: Yes,$1.33,False,Little to no reporting,,ng-hide,Platform: digital,Boston Globe Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,feature,~1500,2014
+,Contract: ,$1.00,False,,,ng-hide,,Boston Globe Magazine,,Rights: ,feature,2000,2013

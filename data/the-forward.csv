@@ -1,0 +1,8 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.25,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,The Forward,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,,1000-word,2018
+,"Contract: Verbal or ""handshake"" agreement",$0.11,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,The Forward,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,feature,1127,2017
+,Contract: Yes,$0.53,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,The Forward,Referral (you had a connection who connected you to the editor),Rights: All rights,feature,1500,2017
+"""The editor introduced numerous factual errors when the story went online. Contacted them to correct the errors, which they did quickly.""",Contract: Yes,$0.13,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,The Forward,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,1500,2017
+,Contract: No,$0.09,False,Little to no reporting,Haven't gotten it yet (as of this reporting) ,svg-2,Platform: digital,The Forward,Referral (you had a connection who connected you to the editor),Rights: Other / I don't know,"opinion, editorial, column or essay",1100,2016
+,Contract: ,$0.44,False,,,ng-hide,Platform: print,The Forward,,Rights: ,feature,~900,2012
+,Contract: ,$50,True,,,ng-hide,,The Forward,,Rights: ,, blog post,2012

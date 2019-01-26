@@ -1,0 +1,6 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.15,False,Medium reporting,Paid in 1 month ,svg-2,Platform: digital,Real Life Magazine,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,feature,3000,2017
+,Contract: No,$0.23,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Real Life Magazine,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",2000,2017
+,Contract: ,$0.00,False,Medium reporting,Paid in 15 days ,svg-2,Platform: digital,Real Life Magazine,Assignment (editor came to you),Rights: Other / I don't know,"opinion, editorial, column or essay",3000,2017
+"""An absolute pleasure to work with. Outstanding editorial insight, direction, and feedback.""",Contract: Yes,$0.14,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,Real Life Magazine,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,"opinion, editorial, column or essay",3600,2017
+"""A true pleasure to work with.""",Contract: Yes,$0.12,False,Medium reporting,Paid in 6 weeks ,svg-1,Platform: digital,Real Life Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,"opinion, editorial, column or essay",4100,2017

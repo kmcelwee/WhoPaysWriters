@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.35,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Daily Telegraph,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,750,2018
+"""Professional editorial and accounts team, 40 day settlement of invoice.""","Contract: Verbal or ""handshake"" agreement",$0.40,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: print,Daily Telegraph,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,news story,700,2018
+"""Flat rate for hotel reviews. Pays promptly.""",Contract: ,$0.14,False,,Paid in 1 month ,svg-1,Platform: digital,Daily Telegraph,,Rights: Other / I don't know,"criticism, review, or arts/entertainment coverage",650,2018

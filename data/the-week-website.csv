@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Editor was great to work with""",Contract: Yes,$0.19,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,The Week Website,Cold pitch (no pre-existing relationship),Rights: All rights,feature,800,2018
+,Contract: No,$0.12,False,Little to no reporting,Haven't gotten it yet (as of this reporting) ,svg-1,Platform: digital,The Week Website,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1300,2017
+,Contract: Yes,$0.19,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,The Week Website,Cold pitch (no pre-existing relationship),Rights: All rights,news story,800,2016

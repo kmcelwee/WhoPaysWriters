@@ -1,0 +1,9 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.29,False,Medium reporting,Paid in 2 months ,svg-3,Platform: digital,The Independent,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,800,2017
+,Contract: No,$0.25,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,The Independent,Cold pitch (no pre-existing relationship),Rights: All rights,feature,800,2017
+,Contract: No,$0.30,False,Heavy/Investigative reporting,Paid in 6 weeks ,svg-2,Platform: digital,The Independent,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,800,2016
+"""Very professional
+
+Same rates for both the i, and the Independent. 
+15 pence a word""",Contract: No,,,Medium reporting,,ng-hide,Platform: digital,The Independent,Cold pitch (no pre-existing relationship),Rights: ,news story,~750,2016
+"""I wasn't paid. The Independent is one of the UK's largest newspapers and they do pay some bloggers but only the big names.""",Contract: No,$0.00,False,Little to no reporting,,ng-hide,Platform: digital,The Independent,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,"opinion, editorial, column or essay",~750,2015

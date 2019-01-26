@@ -1,0 +1,6 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.60,False,,Paid in 1 month ,svg-1,Platform: digital,Science Magazine,,Rights: Other / I don't know,,700-word,2017
+,Contract: ,$6.00,False,,Paid in 6 weeks ,svg-1,Platform: print,Science Magazine,,Rights: Other / I don't know,,1500-word,2017
+""" Prior rate was $1,500 per page but it is now $1,200 per page for the print magazine. """,Contract: Yes,$0.80,False,Heavy/Investigative reporting,,ng-hide,Platform: print,Science Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~1500,2015
+"""Science pays $1500/page for news stories (including features) in the print magazine.""",Contract: Yes,$1.33,False,Heavy/Investigative reporting,,ng-hide,Platform: print,Science Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~1500,2014
+"""Very prompt payment.""",Contract: Yes,$0.47,False,Medium reporting,,ng-hide,Platform: digital,Science Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,~750,2014

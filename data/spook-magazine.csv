@@ -1,0 +1,2 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Australian publication, 800-1200 words, slow to respond, slow to pay, offered a flat rate ($100 AUD), have written 4 pieces, still not paid for 2 of them.""",Contract: No,$0.09,False,Medium reporting,,ng-hide,Platform: digital,Spook Magazine,Cold pitch (no pre-existing relationship),Rights: All rights,"opinion, editorial, column or essay",~750,2015

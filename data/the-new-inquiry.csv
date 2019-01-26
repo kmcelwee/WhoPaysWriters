@@ -1,0 +1,10 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.05,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,The New Inquiry,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,profile or interview,2000,2018
+,Contract: ,$0.05,False,,Haven't gotten it yet (as of this reporting) ,svg-5,Platform: digital,The New Inquiry,,Rights: Other / I don't know,,2000-word,2016
+,Contract: Yes,$0.03,False,Medium reporting,,ng-hide,Platform: digital,The New Inquiry,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,~1500,2016
+,Contract: No,$0.03,False,Little to no reporting,,ng-hide,Platform: digital,The New Inquiry,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"criticism, review, or arts/entertainment converage",~1500,2013
+,Contract: ,$50,True,,,ng-hide,Platform: digital,The New Inquiry,,Rights: ,," opinion, editorial, column or essay",2012
+,Contract: ,$0.00,False,,,ng-hide,Platform: digital,The New Inquiry,,Rights: ,"opinion, editorial, column or essay",~1500,2012
+,Contract: ,$50,True,,,ng-hide,,The New Inquiry,,Rights: ,,,2012
+"""for “non-‘magazine’ essay on their website.”""",Contract: ,,,,,ng-hide,Platform: digital,The New Inquiry,,Rights: ,,,2012
+"""A TNI staffer reports that “all work at thenewinquiry.com, on the site and digital magazine both,” is paid. Rates are “subject to change.” [Staffer also reported that most TNI editors and designers are unpaid.]""",Contract: ,$0.03,False,,,ng-hide,,The New Inquiry,,Rights: ,,1500-word,2012

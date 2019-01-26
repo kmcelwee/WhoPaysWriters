@@ -1,0 +1,12 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Was told by EiC all blog posts were $35. Although, I initially bargained the food editor to $40. According to the food editor food blog posts are $25.
+
+Had one blog post run in the print edition (750 words roughly), wasn't informed of its printing, wasn't given a pay bump.
+
+Same very painful payment terms as the S.F. Examiner (owner by the same company).
+
+""",Contract: Yes,$0.05,False,Medium reporting,,ng-hide,Platform: digital,Sf Weekly,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,~750,2013
+,Contract: ,$0.05,False,,,ng-hide,Platform: print,Sf Weekly,,Rights: ,news story,1000,2013
+,Contract: ,$0.07,False,,,ng-hide,Platform: print,Sf Weekly,,Rights: ,news story,~500,2013
+,Contract: ,$0.30,False,,,ng-hide,Platform: print,Sf Weekly,,Rights: ,,500-word,2013
+"""“$50 for an obituary assigned on short notice, generally $25-30 for other posts.”""",Contract: ,$38,True,,,ng-hide,Platform: digital,Sf Weekly,,Rights: ,, blog post,2013

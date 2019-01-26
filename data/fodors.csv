@@ -1,0 +1,3 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Getting set up in the Fodor’s payment system is a bit taxing. And it took many months for the article to be published.""",Contract: No,$0.14,False,Medium reporting,Paid in 1 month ,svg-4,Platform: digital,Fodor's,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,1300,2018
+,Contract: No,$0.12,False,Little to no reporting,Paid in 6 weeks ,svg-2,Platform: digital,Fodor's,Cold pitch (no pre-existing relationship),Rights: All rights,blog post,1275,2017

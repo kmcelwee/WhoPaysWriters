@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""I don't think it's worth it to publish at AV Club. It's a good byline, I guess, but their rates are hard and set, and writers have no opportunity to negotiate. Given the amount of time you will spend editing your piece, save it and pitch it elsewhere.""",Contract: No,$0.06,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: digital,A.v. Club,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,profile or interview,2000,2018
+,Contract: Yes,$0.36,False,Medium reporting,Paid in 2 months ,svg-1,Platform: digital,A.v. Club,Referral (you had a connection who connected you to the editor),Rights: Other / I don't know,profile or interview,700,2017
+,Contract: ,$60,True,,,ng-hide,,A.v. Club,,Rights: ,," criticism, review, or arts/entertainment converage",2013

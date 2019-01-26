@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.36,False,,Paid in 15 days ,svg-1,Platform: digital,Flare,,Rights: All rights,,750-word,2018
+,Contract: No,$0.38,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Flare,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,"opinion, editorial, column or essay",1333,2018
+,Contract: Yes,$0.29,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Flare,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,1318,2018
+"""Payment is processed within 45 days from submission of the article. Good communication.""","Contract: Verbal or ""handshake"" agreement",$0.80,False,Little to no reporting,,ng-hide,Platform: digital,Flare,Cold pitch (no pre-existing relationship),Rights: All rights,"opinion, editorial, column or essay",~375,2015

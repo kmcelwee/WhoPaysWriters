@@ -1,0 +1,14 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.15,False,Little to no reporting,Paid in 6 weeks ,svg-1,Platform: digital,Narratively,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,"opinion, editorial, column or essay",2000,2018
+"""expenses were paid additionally to this flat fee""",Contract: Yes,$0.12,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Narratively,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,3000,2018
+,Contract: ,$0.20,False,,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,Narratively,,Rights: Other / I don't know,,2500-word,2018
+"""fantastic editorial experience.""",Contract: Yes,$0.08,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,Narratively,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,feature,3000,2017
+,Contract: Yes,$0.10,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: digital,Narratively,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,feature,2400,2017
+,Contract: Yes,$0.06,False,Little to no reporting,Paid in 3 months ,svg-2,Platform: digital,Narratively,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,2500,2017
+,Contract: ,$0.10,False,,Paid in 15 days ,svg-1,Platform: digital,Narratively,,Rights: First Serial Rights,,1500-word,2016
+,Contract: No,$0.07,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,Narratively,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,feature,3000,2016
+,Contract: No,$0.05,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Narratively,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,"opinion, editorial, column or essay",1000,2016
+,Contract: Yes,$0.05,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,Narratively,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,feature,~3000,2015
+,Contract: Yes,$0.02,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,Narratively,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,feature,~8000,2015
+,Contract: Yes,$0.07,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,Narratively,Cold pitch (no pre-existing relationship),Rights: ,feature,~3000,2014
+,Contract: Yes,$0.10,False,Medium reporting,,ng-hide,Platform: digital,Narratively,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,feature,~3000,2014

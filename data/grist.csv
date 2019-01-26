@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Grist is notorious for lowballing people. """,Contract: No,$0.24,False,Little to no reporting,,ng-hide,Platform: digital,Grist,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,~125,2014
+"""""They were AWESOME to work with--we went through several rounds of edits and they were all incredibly helpful."" """,Contract: ,$0.27,False,Medium reporting,,ng-hide,Platform: digital,Grist,,Rights: ,news story,~750,2013
+,Contract: ,$275,True,,,ng-hide,,Grist,,Rights: ,,,2013

@@ -1,0 +1,9 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.10,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,The Paris Review,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,"criticism, review, or arts/entertainment coverage",1500,2017
+"""Great edit. Took me months to get them to pay.""",Contract: Yes,$0.07,False,Medium reporting,,ng-hide,Platform: digital,The Paris Review,Assignment (editor came to you),Rights: ,"criticism, review, or arts/entertainment converage",~1500,2015
+"""Still chasing them for that $100 three months later.  Great edit, though.""",Contract: Yes,$0.03,False,Little to no reporting,,ng-hide,Platform: digital,The Paris Review,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",~3000,2014
+,Contract: ,$100,True,,,ng-hide,,The Paris Review,,Rights: ,," opinion, editorial, column or essay",2013
+,Contract: ,$100,True,,,ng-hide,Platform: digital,The Paris Review,,Rights: ,, blog post,2013
+"""$100 flat fee""",Contract: ,$100,True,,,ng-hide,Platform: digital,The Paris Review,,Rights: ,, blog post,2013
+,Contract: ,$100,True,,,ng-hide,,The Paris Review,,Rights: ,, blog post,2012
+"""""payment usually prompt""""",Contract: ,$0.08,False,,,ng-hide,Platform: digital,The Paris Review,,Rights: ,"opinion, editorial, column or essay",1200,2012

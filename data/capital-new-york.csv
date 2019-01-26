@@ -1,0 +1,3 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,publication,relationship,rights,storyType,wordCount,year
+"""""Payment recieved 9 months later""""",Contract: ,$0.17,False,,,ng-hide,Capital New York,,Rights: ,,1000-word,2013
+,Contract: ,$200,True,,,ng-hide,Capital New York,,Rights: ,,,2013

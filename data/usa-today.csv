@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: ,$0.50,False,,Paid in 6 weeks ,svg-3,Platform: digital,Usa Today,,Rights: All rights,,800-word,2018
+,Contract: No,$0.20,False,Little to no reporting,Haven't gotten it yet (as of this reporting) ,svg-1,Platform: digital,Usa Today,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,"opinion, editorial, column or essay",1000,2018
+"""Surprised a publication of this size offers no pay for opinion articles.""","Contract: Verbal or ""handshake"" agreement",$0.00,False,Little to no reporting,,svg-false,Platform: digital,Usa Today,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",750,2017
+,Contract: ,$0.43,False,,Paid in 15 days ,svg-2,Platform: digital,Usa Today,,Rights: Other / I don't know,,700-word,2017

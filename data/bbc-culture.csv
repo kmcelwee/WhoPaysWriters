@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.40,False,Medium reporting,Paid in 15 days ,svg-2,Platform: digital,Bbc Culture,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,feature,1400,2018
+,Contract: ,$0.53,False,,N/A ,svg-2,Platform: digital,Bbc Culture,,Rights: Other / I don't know,,1000-word,2018
+"""Received a PO a month after filing the story and payment a month after that. The story itself still has not been published (two and a half months after filing).""",Contract: Yes,$0.54,False,Medium reporting,N/A ,svg-3,Platform: digital,Bbc Culture,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,"criticism, review, or arts/entertainment coverage",1000,2018
+"""The piece got killed - so I was paid 50% of the rate mentioned.""",Contract: No,$0.37,False,Medium reporting,Paid in 1 month ,svg-3,Platform: digital,Bbc Culture,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,,1000-word,2016

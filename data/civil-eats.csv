@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.33,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Civil Eats,Cold pitch (no pre-existing relationship),Rights: All rights,news story,900,2018
+,Contract: ,$0.25,False,Medium reporting,Paid in 2 months ,svg-2,Platform: digital,Civil Eats,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,,1000-word,2017
+"""great, easy experience working with editor and the publication.""",Contract: Yes,$0.10,False,Medium reporting,,ng-hide,Platform: digital,Civil Eats,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,profile or interview,~1500,2015

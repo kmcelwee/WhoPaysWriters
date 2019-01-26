@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.50,False,Medium reporting,Paid in 1 month ,svg-1,Platform: print,California Magazine,Assignment (editor came to you),Rights: Other / I don't know,news story,400,2016
+,"Contract: Verbal or ""handshake"" agreement",$0.67,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,California Magazine,Assignment (editor came to you),Rights: Other / I don't know,feature,1500,2016
+,Contract: ,$0.67,False,,Paid in 6 weeks ,svg-1,Platform: digital,California Magazine,,Rights: Other / I don't know,,1500-word,2016
+"""quarterly magazine of the Cal (Berkeley) Alumni Association, NOT California Sunday Magazine.""",Contract: Yes,$1.00,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,California Magazine,Solicited pitch (editor asked you to pitch),Rights: ,feature,~3000,2015

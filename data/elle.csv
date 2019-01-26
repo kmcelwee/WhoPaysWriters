@@ -1,0 +1,7 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""not at all bothered about paying on time""",Contract: No,$0.25,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,Elle,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,feature,1200,2018
+,Contract: No,$0.38,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,Elle,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,feature,800,2016
+,Contract: No,$0.25,False,Medium reporting,Paid in 2 months ,svg-1,Platform: digital,Elle,Assignment (editor came to you),Rights: Other / I don't know,fob,1000,2016
+,Contract: Yes,$0.38,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: digital,Elle,Referral (you had a connection who connected you to the editor),Rights: All rights,feature,800,2016
+,Contract: ,$75,True,,,ng-hide,Platform: digital,Elle,,Rights: ,, news story,2012
+,Contract: ,$40,True,,,ng-hide,Platform: digital,Elle,,Rights: ,, blog post,2012

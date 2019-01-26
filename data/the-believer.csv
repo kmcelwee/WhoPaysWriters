@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.10,False,Little to no reporting,,ng-hide,Platform: print,The Believer,Cold pitch (no pre-existing relationship),Rights: ,"criticism, review, or arts/entertainment converage",~750,2014
+"""Pays two months after publication.""",Contract: Yes,$0.01,False,Heavy/Investigative reporting,,ng-hide,Platform: print,The Believer,Solicited pitch (editor asked you to pitch),Rights: All rights,profile or interview,~30000,2013
+"""“They offered that amount w/o me asking whether or how much I’d be paid. I had no publication history to speak of.”""",Contract: ,$0.10,False,,,ng-hide,,The Believer,,Rights: ,profile or interview,4000,2013
+,Contract: ,$300,True,,,ng-hide,,The Believer,,Rights: ,, profile or interview,2013

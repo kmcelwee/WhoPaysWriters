@@ -1,0 +1,7 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Standard rate for online is $100. They paid me via PayPal--took a little while but no paperwork or anything.""",Contract: No,$0.04,False,Medium reporting,Paid in 6 weeks ,svg-1,Platform: digital,N+1,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",2500,2017
+,Contract: ,$0.05,False,,Haven't gotten it yet (as of this reporting) ,svg-5,Platform: digital,N+1,,Rights: Other / I don't know,,3000-word,2016
+,Contract: No,$0.00,False,Little to no reporting,,ng-hide,Platform: digital,N+1,Assignment (editor came to you),Rights: ,"opinion, editorial, column or essay",~3000,2014
+"""$300-500 flat rate""",Contract: ,$300,True,,,ng-hide,,N+1,,Rights: ,," opinion, editorial, column or essay",2013
+,Contract: ,,,,,ng-hide,Platform: digital,N+1,,Rights: ,, feature,2013
+"""""the editors work for free, too""""",Contract: ,$0.00,False,,,ng-hide,Platform: digital,N+1,,Rights: ,"opinion, editorial, column or essay",2500,2012

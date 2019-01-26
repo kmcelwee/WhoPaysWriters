@@ -1,0 +1,7 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""I've been working for PW as a reviewer for about six years. I've recently (in the last few months) gotten a pay bump to $30 from their typical flat rate of $25. The money is not great, but establishing an ongoing relationship with them has helped establish my credentials in the industry. Keeping which books I review a secret can be extremely frustrating, though.""","Contract: Verbal or ""handshake"" agreement",$0.15,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Publishers Weekly,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,"criticism, review, or arts/entertainment coverage",200,2018
+"""I've worked for Publisher's Weekly for a little over a year. They pay a flat $25 per review. The review is strictly 220-250 words. They make some exceptions for larger works. I was paid $75 for [article name redacted].
+
+There are also opportunities to interview authors. That pays $50. The interview is usually 500 words. 5 questions.""",Contract: Yes,$0.20,False,Little to no reporting,,ng-hide,Platform: digital,Publishers Weekly,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,"criticism, review, or arts/entertainment converage",~125,2014
+,Contract: ,$75,True,,,ng-hide,Platform: digital,Publishers Weekly,,Rights: ,,,2013
+,Contract: ,,,,,ng-hide,Platform: print,Publishers Weekly,,Rights: ,,,2013

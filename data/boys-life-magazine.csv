@@ -1,0 +1,4 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.90,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: print,Boys' Life Magazine,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,fob,334,2017
+,"Contract: Verbal or ""handshake"" agreement",$1.00,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: print,Boys' Life Magazine,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,fob,300,2016
+"""This was a 200-word piece on an animal competing in a sport for a middle-of-the-book section.""",Contract: Yes,$1.60,False,Medium reporting,,ng-hide,Platform: print,Boys' Life Magazine,Cold pitch (no pre-existing relationship),Rights: All rights,other,~125,2014

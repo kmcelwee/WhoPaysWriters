@@ -1,0 +1,8 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: No,$0.06,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Reader's Digest,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,fob,800,2017
+,Contract: ,$1.00,False,Medium reporting,Paid in 2 months ,svg-2,Platform: print,Reader's Digest,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,profile or interview,1400,2016
+,Contract: ,$0.80,False,Little to no reporting,,ng-hide,Platform: print,Reader's Digest,Solicited pitch (editor asked you to pitch),Rights: ,"opinion, editorial, column or essay",~375,2014
+"""I had zero control over editing the piece and they cut it by more than 50% and completely butchered it, buried the lede and missed the point.  I am glad I got the clip but I will never work with them again.  At least they didn't publish it on-line!  
+
+""",Contract: Yes,$0.80,False,Little to no reporting,,ng-hide,Platform: print,Reader's Digest,edito,Rights: First Serial Rights,"opinion, editorial, column or essay",~375,2014
+"""1.25 a word for 1800 word features.""",Contract: Yes,$1.50,False,Heavy/Investigative reporting,,ng-hide,Platform: digital,Reader's Digest,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,feature,~1500,2013

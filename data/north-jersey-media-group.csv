@@ -1,0 +1,5 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""They pay flat $40 for any story, no matter the length or type. If dispatched for a meeting, payment is based on stories generated, not for attendance. Photographs are a flat $20, no matter how many photographs are generated or picked for publication. 
+
+The low rate ensures, unfortunately, that freelancers cannot report deeply and at length for any issue. """,Contract: No,$0.11,False,Medium reporting,,ng-hide,Platform: digital,North Jersey Media Group,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,~375,2014
+"""Paid in a timely fashion, professional polite editors.""",Contract: Yes,$0.27,False,Little to no reporting,,ng-hide,Platform: digital,North Jersey Media Group,,Rights: First Serial Rights,"opinion, editorial, column or essay",~750,2014

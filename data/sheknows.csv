@@ -1,0 +1,14 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$0.09,False,Little to no reporting,Paid in 6 weeks ,svg-1,Platform: digital,Sheknows,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,fob,800,2018
+,Contract: Yes,$0.05,False,Medium reporting,Paid in 1 month ,svg-1,Platform: digital,Sheknows,Cold pitch (no pre-existing relationship),Rights: All rights,feature,1400,2017
+,Contract: Yes,$0.17,False,Little to no reporting,Paid in 15 days ,svg-1,Platform: digital,Sheknows,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,news story,300,2017
+"""I wrote multiple recipes a month for SheKnows.com for about 6 to 8 months. """,Contract: Yes,$0.32,False,Little to no reporting,,ng-hide,Platform: digital,Sheknows,Ongoing/pre-existing relationship with editor or publication,Rights: ,fob,~375,2015
+"""
+SheKnows used to pay $0.13 a word (as of 2010).
+Their explanation of their current payment system is extremely confusing to the point of being deliberately misleading. All indications were that they paid $50 for an article (about $0.08 a word for a 600 word article), 45 days after publication. 
+I just received an email from an editor stating that SheKnows now pays you NOTHING for an article, unless you write a product placement article as a ""brand sponsor."" 
+This information was not included in their payment system description.
+I'm seeing red right about now.
+""",Contract: No,$0.00,False,Medium reporting,,ng-hide,Platform: digital,Sheknows,Cold pitch (no pre-existing relationship),Rights: All rights,blog post,~750,2015
+,Contract: Yes,$0.04,False,Little to no reporting,,ng-hide,Platform: digital,Sheknows,,Rights: ,"criticism, review, or arts/entertainment converage",~375,2015
+,Contract: Yes,$0.08,False,Little to no reporting,,ng-hide,Platform: digital,Sheknows,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,~750,2014

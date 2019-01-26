@@ -1,0 +1,12 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+,Contract: Yes,$2.00,False,Heavy/Investigative reporting,Paid in 1 month ,svg-1,Platform: digital,New York Magazine,Assignment (editor came to you),Rights: First Serial Rights,feature,2800,2017
+"""Thoughtful, communicative editor""",Contract: Yes,$0.20,False,Medium reporting,Paid in 2 months ,svg-2,Platform: digital,New York Magazine,Referral (you had a connection who connected you to the editor),Rights: All rights,feature,2000,2016
+,Contract: ,$0.38,False,,Paid in 2 months ,svg-1,Platform: digital,New York Magazine,,Rights: All rights,,1200-word,2016
+,Contract: No,$0.75,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: digital,New York Magazine,Referral (you had a connection who connected you to the editor),Rights: First Serial Rights,news story,1000,2016
+,Contract: ,$500,True,,,ng-hide,,New York Magazine,,Rights: ,, news story,2013
+,Contract: ,$0.63,False,,,ng-hide,Platform: digital,New York Magazine,,Rights: ,,800-word,2013
+"""Intel Section""",Contract: ,,,,,ng-hide,Platform: print,New York Magazine,,Rights: ,,,2013
+"""""I've heard about $200 less is more standard.""""",Contract: ,$0.75,False,,,ng-hide,,New York Magazine,,Rights: ,feature,1000,2012
+,Contract: ,,,,,ng-hide,Platform: print,New York Magazine,,Rights: ,, feature,2012
+"""""$2 per word if you're a name""""",Contract: ,,,,,ng-hide,Platform: print,New York Magazine,,Rights: ,,,2012
+"""""about 200 less is more standard.""""",Contract: ,$0.75,False,,,ng-hide,,New York Magazine,,Rights: ,feature,1000,2012

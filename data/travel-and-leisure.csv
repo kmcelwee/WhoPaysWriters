@@ -1,0 +1,8 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""Slideshow -- 350 word top copy + at least 20 items w/ 50 word descriptions.""",Contract: Yes,$0.20,False,Heavy/Investigative reporting,Paid in 1 month ,svg-2,Platform: digital,Travel And Leisure,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,fob,1500,2018
+,Contract: Yes,$0.25,False,Little to no reporting,Paid in 1 month ,svg-2,Platform: digital,Travel And Leisure,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,200,2018
+,Contract: Yes,$2.00,False,Medium reporting,Paid in 6 weeks ,svg-1,Platform: print,Travel And Leisure,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,fob,300,2017
+,Contract: Yes,$0.24,False,Little to no reporting,Paid in 1 month ,svg-1,Platform: digital,Travel And Leisure,Assignment (editor came to you),Rights: First Serial Rights,blog post,4500,2017
+,Contract: Yes,$0.20,False,Little to no reporting,Paid in 1 month ,svg-2,Platform: digital,Travel And Leisure,Assignment (editor came to you),Rights: All rights,feature,500,2016
+,Contract: Yes,$0.25,False,Little to no reporting,Paid in 3 months ,svg-3,Platform: digital,Travel And Leisure,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,blog post,300,2016
+,Contract: ,$2.00,False,,,ng-hide,,Travel And Leisure,,Rights: ,,100-word,2013

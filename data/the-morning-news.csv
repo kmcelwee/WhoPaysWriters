@@ -1,0 +1,7 @@
+comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
+"""They also paid travel expenses.""",Contract: Yes,$0.07,False,Heavy/Investigative reporting,Paid in 15 days ,svg-1,Platform: digital,The Morning News,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,2100,2016
+,Contract: Yes,$0.05,False,Medium reporting,,ng-hide,Platform: digital,The Morning News,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,"opinion, editorial, column or essay",~3000,2014
+,Contract: Yes,$0.03,False,Little to no reporting,,ng-hide,Platform: digital,The Morning News,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",~1500,2014
+"""Flat rate for 'one time contributers'""",Contract: ,$50,True,,,ng-hide,,The Morning News,,Rights: ,,,2014
+,Contract: ,$150,True,,,ng-hide,,The Morning News,,Rights: ,," opinion, editorial, column or essay",2013
+,Contract: ,$50,True,,,ng-hide,,The Morning News,,Rights: ,,,2013
