@@ -1,6 +1,6 @@
 # WhoPaysWriters
 A data scrape and analysis of [WhoPaysWriters.com](http://whopayswriters.com/#/results).
-A summary of the results can be found [here](Explore_Data.html).
+A summary of the results can be found [here](Explore_Data.ipynb).
 Pending article in the [Columbia Journalism Review](https://www.cjr.org/).
 Questions and suggestions for improvement are welcome: kevinrmcelwee@gmail.com.
 
