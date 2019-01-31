@@ -24,4 +24,4 @@ Cleans data for analysis. Other than normal cleaning, here are some decisions ma
 This notebook creates [allData_clean.csv](allData_clean.csv), what is ultimately used for analysis.
 
 #### `Explore_Data.ipynb`
-Explores most 2-variable relationships and creates appropriate graphs for study.
+Explores most 2-variable relationships and creates appropriate graphs for study. Also creates `publications_rank.csv`, which uses rankings from `totalPaid`, `wordRate`, `daysToBePaid`, and `paymentDifficulty` to rank publications with more than 7 submissions.
