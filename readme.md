@@ -1,4 +1,7 @@
 # WhoPaysWriters
+
+UPDATE: WhoPaysWriters.com did not take kindly to their data posted on a third party site, so the datasets have been removed. Please email me with any questions.
+
 A data scrape and analysis of [WhoPaysWriters.com](http://whopayswriters.com/#/results).
 A summary of the results can be found [here](Explore_Data.ipynb).
 Collected for an [article in the Columbia Journalism Review](https://www.cjr.org/business_of_news/where-to-pitch-data-who-pays-writers.php).
