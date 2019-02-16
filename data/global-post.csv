@@ -1,5 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""The contract says that I can amend my ability to republish the work elsewhere. GlobalPost would have to agree, in writing.""",Contract: Yes,$0.33,False,Medium reporting,,ng-hide,Platform: digital,Global Post,Cold pitch (no pre-existing relationship),Rights: All rights,news story,~750,2014
-"""They always pay at the end of each month.""",Contract: Yes,$0.27,False,Medium reporting,,ng-hide,Platform: digital,Global Post,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,~750,2014
-,Contract: ,$250.00,False,,,ng-hide,,Global Post,,Rights: ,,~4-word,2013
-"""Payment receive within a week, “but my bank information was already in the payment system. Would take longer otherwise.”""",Contract: ,$0.63,False,,,ng-hide,Platform: digital,Global Post,,Rights: ,feature,800,2013

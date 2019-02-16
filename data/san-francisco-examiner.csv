@@ -1,7 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""Freelancers were just informed of a pay cut. Writers that were previously compensated at a rate of $100 per article are now being paid $75 per article.""",Contract: Yes,$0.20,False,Medium reporting,,ng-hide,Platform: digital,San Francisco Examiner,Ongoing/pre-existing relationship with editor or publication,Rights: ,news story,~375,2014
-"""They say payment terms are net 30 in the contract, but invoicing is done every 30 days, and checks arrive between 45-60 days after an invoice is sent. It is as painful as it sounds.
-
-Sunday feature stories 600-700 words pay $200. And $25 extra for a single photograph for a story.
-
-Good editors. Some of whom will teach. """,Contract: Yes,$0.27,False,Medium reporting,,ng-hide,Platform: digital,San Francisco Examiner,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,fob,~375,2013

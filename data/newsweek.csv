@@ -1,8 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""Company refused to pay. After several months I had to submit a letter of intent to file a small claims lawsuit. Only then did they pay. Parent company is International Business Times.""",Contract: ,$0.75,False,,Longer than 3 months ,svg-5,Platform: print,Newsweek,,Rights: First Serial Rights,,1600-word,2018
-,Contract: Yes,$0.50,False,Medium reporting,Longer than 3 months ,svg-4,Platform: digital,Newsweek,Solicited pitch (editor asked you to pitch),Rights: Other / I don't know,feature,1400,2017
-"""Newsweek is notorious for paying late, and sometimes not at all.""",Contract: Yes,$0.20,False,Heavy/Investigative reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,Newsweek,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,feature,2000,2016
-,Contract: Yes,$0.50,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-1,Platform: print,Newsweek,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,news story,1500,2016
-,Contract: ,$0.50,False,,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,Newsweek,,Rights: Other / I don't know,,1000-word,2016
-"""never paid me""",Contract: Yes,$0.00,False,Medium reporting,,svg-false,Platform: digital,Newsweek,Solicited pitch (editor asked you to pitch),Rights: First Serial Rights,feature,1800,2016
-"""USD $1/word""",Contract: Yes,$0.93,False,Medium reporting,,ng-hide,Platform: digital,Newsweek,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,fob,~1500,2014

@@ -1,7 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: No,$1.00,False,Medium reporting,Paid in 3 months ,svg-2,Platform: digital,National Geographic News,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,500,2019
-,Contract: ,$1.00,False,,Paid in 6 weeks ,svg-2,Platform: digital,National Geographic News,,Rights: All rights,,2000-word,2018
-,Contract: ,$0.75,False,,Paid in 1 month ,svg-2,Platform: digital,National Geographic News,,Rights: All rights,,800-word,2018
-,Contract: Yes,$1.00,False,Medium reporting,Longer than 3 months ,svg-4,Platform: digital,National Geographic News,Other,Rights: All rights,news story,500,2018
-"""Payment is over 60 days late. Editing experience was positive, but won’t write for them again.""",Contract: Yes,$0.67,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-5,Platform: digital,National Geographic News,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,900,2017
-,Contract: Yes,$0.75,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: digital,National Geographic News,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,800,2017

@@ -1,2 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""Payment arrived before publication, but several months after acceptance.""",Contract: Yes,$0.63,False,Medium reporting,Longer than 3 months ,svg-3,Platform: print,Harvard Magazine,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,"opinion, editorial, column or essay",800,2017

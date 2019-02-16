@@ -1,6 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""Article was pushed back by 6 months because editor was too overworked to get to it. But when it finally came, the editing was superb.""",Contract: ,$0.42,False,,Longer than 3 months ,svg-4,Platform: print,Virginia Quarterly Review,,Rights: All rights,,6500-word,2018
-"""""Normal rate is $100 but I was upped when the piece evolved to be twice as long and much more effort than a regular post""""",Contract: ,$200,True,,,ng-hide,,Virginia Quarterly Review,,Rights: ,, blog post,2013
-"""""paid within the month""""",Contract: ,$0.17,False,,,ng-hide,Platform: print,Virginia Quarterly Review,,Rights: ,feature,6000,2013
-,Contract: ,$0.07,False,,,ng-hide,,Virginia Quarterly Review,,Rights: ,blog post,~1500,2013
-,Contract: ,$0.31,False,,,ng-hide,Platform: print,Virginia Quarterly Review,,Rights: ,feature,~8000,2012

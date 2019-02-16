@@ -1,4 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: No,$1.25,False,Medium reporting,Paid in 1 month ,svg-1,Platform: print,Businessweek,Ongoing/pre-existing relationship with editor or publication,Rights: Other / I don't know,fob,600,2017
-"""Editor accepted pitch, offering $2.50/word for a 2,500 word feature. Accepted story, then killed it. Another editor there asked for a reworked version of 1,000 words and then never responded. Was ultimately paid a kill fee for the shorter piece. A miserable experience.""",Contract: Yes,$0.08,False,Heavy/Investigative reporting,,ng-hide,Platform: print,Businessweek,Cold pitch (no pre-existing relationship),Rights: All rights,feature,~3000,2015
-,Contract: ,$1.75,False,,,ng-hide,Platform: print,Businessweek,,Rights: ,feature,1000,2013

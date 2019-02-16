@@ -1,3 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""The article is already paid for and scheduled to be published later this year.""",Contract: Yes,$0.20,False,Medium reporting,Paid in 15 days ,svg-1,Platform: print,Trains Magazine,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,news story,1000,2017
-"""Payment arrived before publication.""",Contract: No,$0.21,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Trains Magazine,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,702,2017

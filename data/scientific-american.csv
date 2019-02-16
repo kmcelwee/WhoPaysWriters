@@ -1,6 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: Yes,$1.50,False,Heavy/Investigative reporting,Paid in 15 days ,svg-1,Platform: print,Scientific American,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,feature,3000,2016
-,Contract: Yes,$0.00,False,Medium reporting,,ng-hide,Platform: digital,Scientific American,Submission/spec (piece was written prior and then submitted for publication),Rights: First Serial Rights,"opinion, editorial, column or essay",~750,2014
-"""rate ""can rise""""",Contract: ,,,,,ng-hide,Platform: print,Scientific American,,Rights: ,,,2013
-,Contract: ,,,,,ng-hide,,Scientific American,,Rights: ,,,2013
-"""rate ""can rise""""",Contract: ,$450,True,,,ng-hide,Platform: digital,Scientific American,,Rights: ,,,2013

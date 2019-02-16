@@ -1,6 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: No,$0.00,False,Medium reporting,,svg-false,Platform: digital,Full Stop,Referral (you had a connection who connected you to the editor),Rights: Other / I don't know,"criticism, review, or arts/entertainment coverage",1500,2017
-,Contract: No,$0.00,False,Little to no reporting,,svg-false,Platform: digital,Full Stop,Cold pitch (no pre-existing relationship),Rights: Other / I don't know,"opinion, editorial, column or essay",1800,2017
-,"Contract: Verbal or ""handshake"" agreement",$0.04,False,Medium reporting,Paid in 15 days ,svg-1,Platform: digital,Full Stop,Submission/spec (piece was written prior and then submitted for publication),Rights: Other / I don't know,feature,2800,2016
-"""Editors great to work with.""",Contract: No,$0.10,False,Little to no reporting,,ng-hide,Platform: digital,Full Stop,Submission/spec (piece was written prior and then submitted for publication),Rights: ,"criticism, review, or arts/entertainment converage",~1500,2014
-,Contract: No,$0.05,False,Little to no reporting,,ng-hide,Platform: digital,Full Stop,Solicited pitch (editor asked you to pitch),Rights: Other / I don't know,"criticism, review, or arts/entertainment converage",~3000,2014

@@ -1,5 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: No,$0.42,False,Medium reporting,Paid in 6 weeks ,svg-2,Platform: digital,International Herald Tribune,Solicited pitch (editor asked you to pitch),Rights: All rights,"opinion, editorial, column or essay",1200,2017
-"""Exchange rate approximate; pay was 500 euros""",Contract: ,$0.50,False,,,ng-hide,,International Herald Tribune,,Rights: ,feature,1200,2012
-""".50 euro per word""",Contract: ,,,,,ng-hide,,International Herald Tribune,,Rights: ,, feature,2012
-"""350 euros""",Contract: ,$0.56,False,,,ng-hide,,International Herald Tribune,,Rights: ,news story,~700,2012

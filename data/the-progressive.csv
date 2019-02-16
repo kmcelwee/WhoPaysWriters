@@ -1,8 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-,Contract: Yes,$0.10,False,Little to no reporting,Paid in 6 weeks ,svg-2,Platform: digital,The Progressive,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,"opinion, editorial, column or essay",1000,2018
-,Contract: No,$0.10,False,Medium reporting,Paid in 6 weeks ,svg-1,Platform: digital,The Progressive,Ongoing/pre-existing relationship with editor or publication,Rights: First Serial Rights,news story,1000,2018
-"""Had to send multiple follow-up emails to staff before they mailed my check.""",Contract: Yes,$0.40,False,Medium reporting,Paid in 2 months ,svg-4,Platform: digital,The Progressive,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,1000,2017
-"""Editor was VERY responsive & pleasant to work with - rate seemed a little low, even for digital, but great experience overall.""",Contract: Yes,$0.10,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-3,Platform: digital,The Progressive,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,1000,2017
-,Contract: Yes,$0.40,False,Medium reporting,Haven't gotten it yet (as of this reporting) ,svg-4,Platform: print,The Progressive,Cold pitch (no pre-existing relationship),Rights: First Serial Rights,news story,1000,2017
-,Contract: ,$1.25,False,,,ng-hide,Platform: print,The Progressive,,Rights: ,"opinion, editorial, column or essay",800,2013
-,Contract: ,$1000,True,Heavy/Investigative reporting,,ng-hide,,The Progressive,,Rights: ,, news story,2013

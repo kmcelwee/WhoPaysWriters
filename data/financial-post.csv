@@ -1,2 +1,0 @@
-comment,contract,dollar,flatRate,levelOfReporting,paidYet,paymentDifficulty,platform,publication,relationship,rights,storyType,wordCount,year
-"""Business section of national newspaper in Canada. Rate jumps another $40 or so if there's another element (video or photo) involved. Prompt payment in 2 weeks, likely due to existing relationship. Rate is slightly lower than main competitor. """,Contract: No,$0.33,False,Medium reporting,,ng-hide,Platform: digital,Financial Post,Ongoing/pre-existing relationship with editor or publication,Rights: All rights,news story,~750,2016
