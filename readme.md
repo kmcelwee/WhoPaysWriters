@@ -1,6 +1,6 @@
 # WhoPaysWriters
 
-UPDATE: [WhoPaysWriters.com](http://whopayswriters.com/#/results) did not take kindly to their data posted on a third-party site, so the datasets have been removed. Please email me with any questions.
+UPDATE: [WhoPaysWriters.com](http://whopayswriters.com/#/results) asked that their data not be posted on a third-party site, so the datasets have been removed. Please email me with any questions.
 
 ***
 A data scrape and analysis of [WhoPaysWriters.com](http://whopayswriters.com/#/results).
